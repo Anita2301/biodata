@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <header class="text-center">
+            <h1>Biodata Saya</h1>
+            <img src="img.jpg.jpg" alt="Foto Saya" class="img.jpg.jpg" width="150">
+        </header>
+        <section class="mt-4">
+            <h2>Data Pribadi</h2>
+            <p><strong>Nama:</strong> [Ari Nur Anita]</p>
+            <p><strong>Tanggal Lahir:</strong> [23 Januari 2003]</p>
+            <p><strong>Alamat:</strong> [Pliken, RT 01/ RW 04]</p>
+            <p><strong>Email:</strong> [arinuranita23@gmail.com]</p>
+            <p><strong>No. Telepon:</strong> [081469737042]</p>
+        </section>
+        <section class="mt-4">
+            <h2></h2>
+            <ul>
+                <li>[2019-2022] - [SMAN 1 SOKARAJA] - [Gelar]</li>
+                <li>[2023-Sekarang] - [STMIK WIDYA UTAMA] - [S1 Teknik Informatika]</li>
+            </ul>
+        </section>
+        <section class="mt-4">
+            <h2>Pengalaman Kerja</h2>
+            <ul>
+                <li>[2023] - [Staff Notaris] di [Notaris Yova AKlil ]</li>
+                <li>[2024] - [PIC/SL (Store Leader)] di [Galeri Elzatta Purwokerto]</li>
+            </ul>
+        </section>
+        <footer class="text-center mt-5">
+            <p>&copy; [Tahun] [Nama Anda]. Semua hak dilindungi.</p>
+        </footer>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
